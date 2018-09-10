@@ -54,7 +54,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* number of backlight levels */
 #define RGB_DI_PIN F1
-#define RGBLED_NUM 7
+#define RGBLED_NUM 22
+#define RGBLIGHT_ANIMATIONS
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCING_DELAY 5
