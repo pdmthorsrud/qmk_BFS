@@ -57,9 +57,9 @@ const uint16_t PROGMEM keymaps[][6][14] = {
   KC_ESC, RESET,          KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,      KC_F6,   KC_F7,       KC_F8,   RGB_HUI, RGB_HUD, RGB_M_P, RGB_TOG,\
   KC_9,   NO_APOS,        KC_1,    KC_2,    KC_3,    KC_4,    KC_5,       KC_6,    KC_7,        KC_8,    KC_9,    KC_0,    NO_PLUS, RGB_MOD,\
   KC_8,   KC_TAB,         KC_Q,    KC_W,    KC_E,    KC_R,    KC_T,       KC_Y,    KC_U,        KC_I,    KC_O,    KC_P,    NO_AA,   KC_ENTER,\
-  KC_7,   KC_LCTL,        KC_A,    KC_S,    KC_D,    KC_F,    LT(2, KC_G),KC_H,    KC_J,        KC_K,    KC_L,    NO_OSLH, NO_AE,   RGB_TOG,\
+  KC_7,   KC_LCTL,        KC_A,    KC_S,    KC_D,    KC_F,    KC_G,       KC_H,    KC_J,        KC_K,    KC_L,    NO_OSLH, NO_AE,   RGB_TOG,\
   KC_6,   KC_LSFT,        KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,       KC_N,    KC_M,        KC_COMM, KC_DOT,  NO_MINS, KC_UP,   KC_TRNS,\
-  KC_ESC, MO(3),          NO_LESS, KC_LGUI, KC_LALT, KC_SPC,  KC_L,       KC_BSPC, MO(1),       KC_LEFT, KC_DOWN, KC_LEFT, KC_DOWN, KC_RIGHT\
+  KC_ESC, MO(3),          NO_LESS, KC_LGUI, KC_LALT, KC_SPC,  KC_L,       KC_BSPC, MO(1),       KC_ENTER,KC_DOWN, KC_LEFT, KC_DOWN, KC_RIGHT\
 ),
 
 /* Colemak
